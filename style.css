@@ -1,0 +1,22 @@
+body { text-align: center; }
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-left{
+    text-align: center;
+}
+.text-right{
+    text-align: center;
+}
+.img{
+    padding-left: 10px;
+    padding-right: 10px;
+}
